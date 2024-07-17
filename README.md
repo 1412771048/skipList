@@ -59,12 +59,6 @@
 
 每秒可处理读请求数（QPS）: 18.41w
 
-# 项目运行方式
-
-```
-make            // complie demo main.cpp
-./bin/main      // run 
-```
 
 如果想自己写程序使用这个kv存储引擎，只需要在你的CPP文件中include skiplist.h 就可以了。
 
